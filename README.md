@@ -1,1 +1,1 @@
-# DAV_Lab
+This repository was forked for demonstrating GitHub collaboration.
